@@ -1,1 +1,7 @@
-java zhouxuan
+1.通过git init命令把这个目录变成Git可以管理的仓库
+2.用命令git add告诉Git，把文件添加到仓库
+3.用命令git commit告诉Git，把文件提交到仓库
+4.git status命令可以让我们时刻掌握仓库当前的状态
+5.git diff顾名思义就是查看文件不同点
+6.git log命令显示从最近到最远的提交日志 如果嫌输出信息太多，看得眼花缭乱的，可以试试 git log --pretty=oneline
+7.
